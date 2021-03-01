@@ -10,7 +10,7 @@ Here are some ideas to get you started:-->
 - 👯 I’m looking to collaborate on open source projects.
 - 🤔 I’m looking for help with MERN Stack.
 - 💬 Ask me about everything.
-- 📫 How to reach me: mailto:premrajzambre@gmail.com 
+- 📫 How to reach me: premrajzambre@gmail.com 
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
